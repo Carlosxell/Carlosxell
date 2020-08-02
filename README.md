@@ -1,4 +1,4 @@
-#### - Carlos Augusto
+### - Carlos Augusto
 
 Desenvolvedor com 7 anos de Experiência em Front-end e 1 ano como Desenvolvedor Backend em NodeJS.
 
