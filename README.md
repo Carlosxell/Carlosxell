@@ -1,9 +1,7 @@
 ### - Carlos Augusto Oliveira da Silva
 
-Desenvolvedor Front-end / NodeJS.
+Desenvolvedor Front-end com 12 anos de experiência. Tendo começado na área como autodidata a princípio e após estudos mais aprofundados, terminando por alcançar maior experiência e conhecimento em múltiplas Stacks.
+Especialista em VueJs, Responsividade, Mobile First. Tendo também trabalhado com Angular, Svelte, NodeJs e React.
 
-- Experiência em trabalhar com _VueJs, Angular, React, SvelteJs, NodeJS._
-- Conhecimento de metodologias como _BEM, ITCSS e Styled Components_ para **Css**, _Scrum e Kanban_ para **metodologias ágeis**, _Git-flow_ para **GIT**, entre outras no dia a dia.
-
-Mais Informações no Perfil:
+Mais Informações no Perfil do Linkedin:
 > [Linkedin](https://www.linkedin.com/in/carlosxell/)
