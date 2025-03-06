@@ -1,4 +1,4 @@
-### - Carlos Augusto
+### - Carlos Augusto Oliveira da Silva
 
 Desenvolvedor Front-end / NodeJS.
 
